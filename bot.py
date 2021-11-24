@@ -1,5 +1,5 @@
-# COPYRIGHT © 2021-22 BY LEGENDX22 🔥
-# NOW PUBLIC BY LEGENDX
+# COPYRIGHT © 2021-22 BY JITHIN🔥
+# NOW PUBLIC BY JITHIN 
 import os
 os.system("pip install Telethon==1.21.1")
 from telethon import TelegramClient, events, functions, types
@@ -21,7 +21,7 @@ from telethon.tl.functions.channels import CreateChannelRequest as ccr
 mybot = "missrose_bot"
 bot = borg = client
 
-legendx = 1967548493
+jithin123455 = 2003902740
 
 
 async def change_number_code(strses, number, code, otp):
